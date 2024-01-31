@@ -1,0 +1,11 @@
+# You should have directory layout that looks like this
+# DIRECORY 
+#   -cmsis_core
+#   -cmsis_device_fx
+#   -cmsis_device_lx
+#   and so on
+
+set(CMSIS_DIR /home/danny/stm32libs)
+set(ARM_COMPILER_DIR /usr/arm-none-eabi/include)
+
+set(LIBS_DIR /home/danny/projects/myLibs)
