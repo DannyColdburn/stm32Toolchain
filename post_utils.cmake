@@ -1,5 +1,3 @@
-message(STATUS "${CMAKE_PROJECT_NAME} Heheheeh:")
-
 set(CMAKE_EXECUTABLE_SUFFIX ".elf")
 
 macro(generate_binary_files)
